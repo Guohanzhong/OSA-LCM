@@ -4,6 +4,7 @@
 </p>
   <p align="center">
     <a href="http://arxiv.org/abs/2412.13479"><img alt='page' src="https://img.shields.io/badge/Arxix-2412.13479-red"></a>
+    <a href="https://guohanzhong.github.io/osalcm/"><img alt='page' src="https://img.shields.io/badge/Project-Website-orange"></a>
   </p>
 
 ## :label: News!
